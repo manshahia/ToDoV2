@@ -17,4 +17,4 @@ var ToDo = mongoose.model('Todo', {
   }
 });
 
-modules.exports = {ToDo};
+module.exports = {ToDo};
